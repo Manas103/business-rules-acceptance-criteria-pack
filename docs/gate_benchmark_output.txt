@@ -1,0 +1,8 @@
+=== Business Rules as Executable Acceptance Criteria -- gate benchmark ===
+
+-- claim: 32 of 32 seeded violations caught and attributed to the rule by name --
+seeded violations caught: 32 / 32
+unexpected violations on the seeded-violation load: 0
+
+-- claim: 0 of 20 clean loads falsely failed --
+false failures across 20 independent clean loads: 0
